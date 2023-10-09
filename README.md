@@ -1,0 +1,1 @@
+# Resource_SnowflakeDB_Essential
