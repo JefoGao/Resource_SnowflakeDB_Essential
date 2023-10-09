@@ -2,6 +2,23 @@
 
 # 1. SnowflakeDB Overview
 ## 1.1 Meet SnowflakeDB
+- Cloud-native SaaS data warehouse and platform
+- Data platforms:
+  - Store files and data in tables
+  - Query data, including with ML
+  - Transform data (ingest, process, output)
+  - Support use cases like SQL, ETL, data science, BI
+- Cloud-native:
+  - First cloud-only data warehouse on multiple clouds (AWS, GCP, Azure)
+  - Provides web interface and API to serverless, scalable cloud services
+  - Zero install, just connect and start using services
+- SaaS data warehouse:
+  - Designed for analytics and reporting 
+  - Columnar storage optimized for aggregate SQL queries
+  - Massive scalability
+- Originally based on star schema data modeling (looks like snowflake shape)
+- Name Snowflake is from founders' love of winter sports
+- Huge market share of cloud data warehouse space (44% in one report)
 ## 1.2 Understand SnowflakeDB data platform
 ## 1.3 Compare Cloud Data Warehouse Solutions
 ## 1.4 Review SnowflakeDB Architecture
